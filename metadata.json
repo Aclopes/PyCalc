@@ -1,0 +1,6 @@
+{
+  "name": "PyCalc Studio",
+  "description": "Interactive Python-powered scientific calculator, script REPL, and mathematical function plotter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
